@@ -1,0 +1,1 @@
+# SPS-Beamer-LaTeX-Template
